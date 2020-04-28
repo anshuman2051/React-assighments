@@ -1,0 +1,8 @@
+.NavBar a{
+    text-decoration: none;
+    margin: 0 5px;
+    font-size: 2rem;
+}
+.NavBar{
+    border-bottom: 1px solid black;
+}
